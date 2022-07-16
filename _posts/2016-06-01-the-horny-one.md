@@ -1,9 +1,4 @@
 ---
-title:
-summary: 
-date: 
-categories:
-tags:
 mp3: http://dts.podtrac.com/redirect.mp3/archive.org/download/SR001TheHornyOne/SR001-The-Horny-One.mp3
 ---
 

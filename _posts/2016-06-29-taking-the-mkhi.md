@@ -1,9 +1,4 @@
 ---
-title:
-summary: 
-date: 
-categories:
-tags:
 mp3: http://dts.podtrac.com/redirect.mp3/archive.org/download/SR003TakingTheMkhi/SR003-Taking-The-Mkhi.mp3
 ---
 
